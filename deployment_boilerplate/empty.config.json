@@ -1,0 +1,17 @@
+{
+  "configuration": {
+    "packageExtension": "",
+    "server": "",
+    "forceInstall": false,
+    "supportMultipleArch": true,
+    "packagePrefix": "",
+    "setupOptions": "",
+    "installfile": "",
+    "downloadFromServer": false,
+    "version": "",
+    "deleteInstaller": false,
+    "packageSuffix": "",
+    "packageName": "",
+    "cusomtPackageName" : ""
+  }
+}
